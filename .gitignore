@@ -1,0 +1,14 @@
+# Ignore environment variable file
+.env
+
+# Ignore combo data file
+combo_data.json
+
+# Python cache files
+__pycache__/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
