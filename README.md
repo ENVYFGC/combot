@@ -25,3 +25,4 @@ A Discord bot designed to simplify combo management for *Guilty Gear Strive*. Th
    ```bash
    git clone https://github.com/ENVYFGC/COMBOT.git
    cd COMBOT
+[COMBOT TOS.txt](https://github.com/user-attachments/files/18222551/COMBOT.TOS.txt)
